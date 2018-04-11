@@ -1,0 +1,43 @@
+{
+    "name": "react-unstructured",
+    "common": [{
+        "path": "react",
+        "commons": [
+            "typescript",
+            "typescript-feature",
+            "sass-style"
+        ]
+    }, {
+        "path": "common",
+        "commons": [
+            "ghoti",
+            "public",
+            "public-template",
+            "eslint",
+            "tslint",
+            "typescript-config"
+        ]
+    }],
+    "author": "WMXPY",
+    "language": "TypeScript",
+    "framework": "React",
+    "replaces": [],
+    "postLog": [
+        "$empty",
+        "Here are some useful shortcuts for your hacking",
+        "You can always enter \"npm run hint\" for this message again",
+        "$empty",
+        "npm run feature [feature name]     > create a feature",
+        "$empty",
+        "npm run build                      > bundle application for production",
+        "npm start                          > start development with localhost server",
+        "npm test                           > test features by mocha",
+        "$empty"
+    ],
+    "whatis": [
+        "react single page application",
+        "build with webpack 3",
+        "unstructured",
+        "cannot use ghoti extend commands in the repo"
+    ]
+}
