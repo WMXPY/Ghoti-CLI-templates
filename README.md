@@ -13,13 +13,13 @@ This repo is a storage of some ghoti-cli external templates
 You can install and init a packet by 
 
 ```bash
-ghoti init github://WMXPY/Ghoti-CLI-templates/master/[packet name]/[packet name].zip -f [target folder]
+ghoti init github://WMXPY/Ghoti-CLI-templates/master/dist/[packet name].zip -f [target folder]
 ```
 
 Or just install it with out init
 
 ```bash
-ghoti install github://WMXPY/Ghoti-CLI-templates/master/[packet name]/[packet name].zip
+ghoti install github://WMXPY/Ghoti-CLI-templates/master/dist/[packet name].zip
 ```
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
