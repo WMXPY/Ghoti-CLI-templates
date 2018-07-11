@@ -1,12 +1,13 @@
 {
-    "name": "react-webpack-3",
+    "name": "react-ssr-webpack-3",
     "common": [{
         "path": "react",
         "commons": [
             "typescript",
             "typescript-feature",
             "typescript-structure",
-            "sass-style"
+            "sass-style",
+            "middle-ssr"
         ]
     }, {
         "path": "common",
@@ -41,7 +42,9 @@
     "whatis": [
         "react single page application",
         "build with webpack 3",
+        "use typescript",
         "test with mocha",
-        "use typescript"
+        "support server side render",
+        "suggested"
     ]
 }
